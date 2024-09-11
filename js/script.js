@@ -1,3 +1,9 @@
+"use strict";
+
+// let interface = 12;
+
+// userAg = 15;
+
 /*
 const dayOfWeek = "sunday";
 
@@ -27,5 +33,3 @@ switch (dayOfWeek) {
 const age = 17;
 
 const string = `you are ${age > 18 ? "adult" : "young"}`;
-
-console.log(string);
