@@ -1,3 +1,4 @@
+/*
 const dayOfWeek = "sunday";
 
 switch (dayOfWeek) {
@@ -21,3 +22,10 @@ switch (dayOfWeek) {
   default:
     console.log("invalid day");
 }
+*/
+
+const age = 17;
+
+const string = `you are ${age > 18 ? "adult" : "young"}`;
+
+console.log(string);
